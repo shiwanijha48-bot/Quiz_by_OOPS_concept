@@ -1,0 +1,10 @@
+What does DBMS stand for?|Data Backup Management System,Database Management System,Digital Base Management System,Data Building Management System|Database Management System
+Which language is used to query a database?|HTML,SQL,CSS,Python|SQL
+Which of the following is a type of DBMS?|Hierarchical,Network,Relational,All of these|All of these
+Which key uniquely identifies a record in a table?|Foreign Key,Primary Key,Super Key,Composite Key|Primary Key
+Which normal form removes partial dependency?|1NF,2NF,3NF,BCNF|2NF
+Which SQL command is used to retrieve data?|GET,SELECT,SHOW,FETCH|SELECT
+Which SQL clause is used to filter records?|WHERE,GROUP BY,ORDER BY,HAVING|WHERE
+Which of the following is a DDL command?|SELECT,INSERT,UPDATE,CREATE|CREATE
+Which join returns matching rows from both tables?|LEFT JOIN,RIGHT JOIN,INNER JOIN,FULL JOIN|INNER JOIN
+Which constraint ensures no duplicate values in a column?|NOT NULL,UNIQUE,DEFAULT,CHECK|UNIQUE
