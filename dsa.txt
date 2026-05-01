@@ -1,0 +1,10 @@
+Which data structure uses LIFO principle?|Queue,Stack,Tree,Graph|Stack
+Which data structure uses FIFO principle?|Stack,Queue,Heap,Array|Queue
+Binary Search works only on?|Sorted Array,Unsorted Array,Linked List,Graph|Sorted Array
+What is the time complexity of Linear Search in worst case?|O(1),O(log n),O(n),O(n^2)|O(n)
+Which sorting algorithm has average time complexity O(n log n)?|Bubble Sort,Selection Sort,Merge Sort,Insertion Sort|Merge Sort
+Which data structure is used for implementing recursion?|Queue,Stack,Array,Linked List|Stack
+In a binary tree, maximum number of children a node can have?|1,2,3,4|2
+Which traversal of Binary Search Tree gives sorted output?|Preorder,Inorder,Postorder,Level Order|Inorder
+Which data structure is best for implementing undo operation?|Queue,Stack,Tree,Graph|Stack
+Which data structure provides average O(1) time complexity for search?|Array,Linked List,Hash Table,Binary Tree|Hash Table
