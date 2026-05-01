@@ -1,0 +1,10 @@
+What is the correct file extension for Python files?|.pt,.python,.py,.pyt|.py
+Which keyword is used to define a function in Python?|function,def,fun,define|def
+Which data type is immutable?|List,Dictionary,Set,Tuple|Tuple
+What is the output of print(type(5))?|<class 'int'>,<class 'str'>,<class 'float'>,<class 'bool'>|<class 'int'>
+Which operator is used for exponentiation in Python?|^,**,%,//|**
+What will len("Hello") return?|4,5,6,Error|5
+Which collection allows duplicate elements?|Set,Dictionary,Tuple,List|List
+Which keyword is used for exception handling?|try,catch,final,check|try
+What does the range(5) function generate?|0 to 4,1 to 5,0 to 5,1 to 4|0 to 4
+Which method is used to add an element at the end of a list?|add(),append(),insert(),push()|append()
